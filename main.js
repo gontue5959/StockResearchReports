@@ -7,12 +7,17 @@ function getQueryParam(name) {
 // 根據網址參數決定檔案路徑
 const stockid = getQueryParam('stockid') || 'AAPL';
 const date = getQueryParam('date') || '';
+// 取得 base path（自動偵測 github pages 子目錄）
+const basePath = window.location.pathname.split('/').slice(0, -1).join('/') + '/';
+const repoRoot = basePath.includes('/StockResearchReports/') ? '/StockResearchReports/' : '/';
 let dataFolder = '';
 if (date) {
-    dataFolder = `data/${date}/`;
+    dataFolder = `${repoRoot}data/${date}/`;
+} else {
+    dataFolder = `${repoRoot}data/`;
 }
-const reportDataPath = dataFolder ? `${dataFolder}${stockid}.json` : 'report-data.json';
-const priceDataPath = dataFolder ? `${dataFolder}${stockid}_price.json` : `${stockid}_price.json`;
+const reportDataPath = dataFolder ? `${dataFolder}${stockid}.json` : `${repoRoot}report-data.json`;
+const priceDataPath = dataFolder ? `${dataFolder}${stockid}_price.json` : `${repoRoot}${stockid}_price.json`;
 
 // 載入並渲染資料
 async function loadReportData() {
