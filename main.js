@@ -14,7 +14,7 @@ let dataFolder = '';
 if (date) {
     dataFolder = `${repoRoot}data/${date}/`;
 } else {
-    dataFolder = `${repoRoot}data/`;
+    dataFolder = `${repoRoot}data/new/`;
 }
 const reportDataPath = `${dataFolder}${stockid}.json`;
 const priceDataPath = `${dataFolder}${stockid}_price.json`;
