@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "title": "股票研究報告 - 臉書(META.US)",
+    "reportNumber": "TSM-2025-0618",
+    "pageInfo": "頁數：1 of 1",
+    "publishDate": "發布日期：2025年06月21日"
+  },
+  "header": {
+    "firmName": "CMoney",
+    "reportTitle": "股票研究報告",
+    "companyName": "臉書",
+    "companyNameEn": "Meta Platforms, Inc."
+  },
+  "stockDetails": {
+    "industry": "軟件與服務",
+    "marketCap": "17157",
+    "currentPrice": "682.35",
+    "priceRange52w": "453 - 737",
+    "grossProfitMargin": "82.1%",
+    "beta": "1.41",
+    "fields": [
+      {
+        "label": "產業別",
+        "key": "industry"
+      },
+      {
+        "label": "市值",
+        "key": "marketCap"
+      },
+      {
+        "label": "當前股價",
+        "key": "currentPrice"
+      },
+      {
+        "label": "52週區間",
+        "key": "priceRange52w"
+      },
+      {
+        "label": "毛利率",
+        "key": "grossProfitMargin"
+      },
+      {
+        "label": "Beta值",
+        "key": "beta"
+      }
+    ]
+  },
+  "recommendation": {
+    "rating": "謹慎",
+    "ratingClass": "cautious",
+    "targetPrice": "US$ 455.9",
+    "potentialReturn": "潛在報酬 -33.2%"
+  },
+  "ratingInfo": {
+    "title": "價值評估",
+    "rating": {
+      "value": "偏高",
+      "label": "綜合評估"
+    },
+    "targetPrice": {
+      "value": "US$ 455.9",
+      "label": "合理價格"
+    },
+    "riskAssessment": {
+      "title": "風險評估",
+      "risks": [
+        [
+          "營收評估",
+          "昂貴",
+          "risk-high"
+        ],
+        [
+          "營業利益評估",
+          "偏高",
+          "risk-high"
+        ],
+        [
+          "現金流評估",
+          "偏高",
+          "risk-high"
+        ]
+      ]
+    }
+  },
+  "keyMetrics": {
+    "title": "關鍵指標",
+    "data": [
+      [
+        "本益比 (P/E)",
+        "25.8x"
+      ],
+      [
+        "股價淨值比 (P/B)",
+        "9.3x"
+      ],
+      [
+        "企業價值倍數 (EV/EBITDA)",
+        "15.6x"
+      ],
+      [
+        "股息殖利率",
+        "0.30%"
+      ],
+      [
+        "淨負債比率",
+        "34.0%"
+      ],
+      [
+        "流動比率",
+        "266.2x"
+      ]
+    ]
+  }
+}

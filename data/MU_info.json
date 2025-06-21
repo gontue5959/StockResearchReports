@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "title": "股票研究報告 - 美光科技(MU.US)",
+    "reportNumber": "TSM-2025-0618",
+    "pageInfo": "頁數：1 of 1",
+    "publishDate": "發布日期：2025年06月21日"
+  },
+  "header": {
+    "firmName": "CMoney",
+    "reportTitle": "股票研究報告",
+    "companyName": "美光科技",
+    "companyNameEn": "Micron Technology, Inc."
+  },
+  "stockDetails": {
+    "industry": "半導體產品與設備",
+    "marketCap": "1381",
+    "currentPrice": "123.60",
+    "priceRange52w": "65 - 142",
+    "grossProfitMargin": "36.8%",
+    "beta": "2.20",
+    "fields": [
+      {
+        "label": "產業別",
+        "key": "industry"
+      },
+      {
+        "label": "市值",
+        "key": "marketCap"
+      },
+      {
+        "label": "當前股價",
+        "key": "currentPrice"
+      },
+      {
+        "label": "52週區間",
+        "key": "priceRange52w"
+      },
+      {
+        "label": "毛利率",
+        "key": "grossProfitMargin"
+      },
+      {
+        "label": "Beta值",
+        "key": "beta"
+      }
+    ]
+  },
+  "recommendation": {
+    "rating": "持平",
+    "ratingClass": "neutral",
+    "targetPrice": "US$ 119.74",
+    "potentialReturn": "潛在報酬 -3.1%"
+  },
+  "ratingInfo": {
+    "title": "價值評估",
+    "rating": {
+      "value": "偏高",
+      "label": "綜合評估"
+    },
+    "targetPrice": {
+      "value": "US$ 119.74",
+      "label": "合理價格"
+    },
+    "riskAssessment": {
+      "title": "風險評估",
+      "risks": [
+        [
+          "營收評估",
+          "偏高",
+          "risk-high"
+        ],
+        [
+          "營業利益評估",
+          "無法評估",
+          ""
+        ],
+        [
+          "現金流評估",
+          "無法評估",
+          ""
+        ]
+      ]
+    }
+  },
+  "keyMetrics": {
+    "title": "關鍵指標",
+    "data": [
+      [
+        "本益比 (P/E)",
+        "29.6x"
+      ],
+      [
+        "股價淨值比 (P/B)",
+        "2.8x"
+      ],
+      [
+        "企業價值倍數 (EV/EBITDA)",
+        "7.4x"
+      ],
+      [
+        "股息殖利率",
+        "0.52%"
+      ],
+      [
+        "淨負債比率",
+        "33.4%"
+      ],
+      [
+        "流動比率",
+        "313.4x"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "title": "股票研究報告 - 特斯拉(TSLA.US)",
+    "reportNumber": "TSM-2025-0618",
+    "pageInfo": "頁數：1 of 1",
+    "publishDate": "發布日期：2025年06月21日"
+  },
+  "header": {
+    "firmName": "CMoney",
+    "reportTitle": "股票研究報告",
+    "companyName": "特斯拉",
+    "companyNameEn": "Tesla, Inc."
+  },
+  "stockDetails": {
+    "industry": "汽車與汽車零部件",
+    "marketCap": "10377",
+    "currentPrice": "322.16",
+    "priceRange52w": "183 - 480",
+    "grossProfitMargin": "16.3%",
+    "beta": "2.50",
+    "fields": [
+      {
+        "label": "產業別",
+        "key": "industry"
+      },
+      {
+        "label": "市值",
+        "key": "marketCap"
+      },
+      {
+        "label": "當前股價",
+        "key": "currentPrice"
+      },
+      {
+        "label": "52週區間",
+        "key": "priceRange52w"
+      },
+      {
+        "label": "毛利率",
+        "key": "grossProfitMargin"
+      },
+      {
+        "label": "Beta值",
+        "key": "beta"
+      }
+    ]
+  },
+  "recommendation": {
+    "rating": "樂觀",
+    "ratingClass": "optimistic",
+    "targetPrice": "US$ 419.9",
+    "potentialReturn": "潛在報酬 +30.3%"
+  },
+  "ratingInfo": {
+    "title": "價值評估",
+    "rating": {
+      "value": "偏低",
+      "label": "綜合評估"
+    },
+    "targetPrice": {
+      "value": "US$ 419.9",
+      "label": "合理價格"
+    },
+    "riskAssessment": {
+      "title": "風險評估",
+      "risks": [
+        [
+          "營收評估",
+          "偏低",
+          "risk-low"
+        ],
+        [
+          "營業利益評估",
+          "偏低",
+          "risk-low"
+        ],
+        [
+          "現金流評估",
+          "偏低",
+          "risk-low"
+        ]
+      ]
+    }
+  },
+  "keyMetrics": {
+    "title": "關鍵指標",
+    "data": [
+      [
+        "本益比 (P/E)",
+        "169.8x"
+      ],
+      [
+        "股價淨值比 (P/B)",
+        "13.9x"
+      ],
+      [
+        "企業價值倍數 (EV/EBITDA)",
+        "59.2x"
+      ],
+      [
+        "股息殖利率",
+        "-"
+      ],
+      [
+        "淨負債比率",
+        "40.3%"
+      ],
+      [
+        "流動比率",
+        "199.6x"
+      ]
+    ]
+  }
+}
