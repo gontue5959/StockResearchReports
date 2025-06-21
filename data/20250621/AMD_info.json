@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "title": "股票研究報告 - 超微半導體(AMD.US)",
+    "reportNumber": "TSM-2025-0618",
+    "pageInfo": "頁數：1 of 1",
+    "publishDate": "發布日期：2025年06月21日"
+  },
+  "header": {
+    "firmName": "CMoney",
+    "reportTitle": "股票研究報告",
+    "companyName": "超微半導體",
+    "companyNameEn": "Advanced Micro Devices, Inc."
+  },
+  "stockDetails": {
+    "industry": "半導體產品與設備",
+    "marketCap": "2079",
+    "currentPrice": "128.24",
+    "priceRange52w": "78 - 184",
+    "grossProfitMargin": "50.2%",
+    "beta": "2.02",
+    "fields": [
+      {
+        "label": "產業別",
+        "key": "industry"
+      },
+      {
+        "label": "市值",
+        "key": "marketCap"
+      },
+      {
+        "label": "當前股價",
+        "key": "currentPrice"
+      },
+      {
+        "label": "52週區間",
+        "key": "priceRange52w"
+      },
+      {
+        "label": "毛利率",
+        "key": "grossProfitMargin"
+      },
+      {
+        "label": "Beta值",
+        "key": "beta"
+      }
+    ]
+  },
+  "recommendation": {
+    "rating": "樂觀",
+    "ratingClass": "optimistic",
+    "targetPrice": "US$ 186.12",
+    "potentialReturn": "潛在報酬 +45.1%"
+  },
+  "ratingInfo": {
+    "title": "價值評估",
+    "rating": {
+      "value": "偏低",
+      "label": "綜合評估"
+    },
+    "targetPrice": {
+      "value": "US$ 186.12",
+      "label": "合理價格"
+    },
+    "riskAssessment": {
+      "title": "風險評估",
+      "risks": [
+        [
+          "營收評估",
+          "偏低",
+          "risk-low"
+        ],
+        [
+          "營業利益評估",
+          "無法評估",
+          ""
+        ],
+        [
+          "現金流評估",
+          "偏低",
+          "risk-low"
+        ]
+      ]
+    }
+  },
+  "keyMetrics": {
+    "title": "關鍵指標",
+    "data": [
+      [
+        "本益比 (P/E)",
+        "93.4x"
+      ],
+      [
+        "股價淨值比 (P/B)",
+        "3.6x"
+      ],
+      [
+        "企業價值倍數 (EV/EBITDA)",
+        "27.3x"
+      ],
+      [
+        "股息殖利率",
+        "-"
+      ],
+      [
+        "淨負債比率",
+        "19.1%"
+      ],
+      [
+        "流動比率",
+        "280.4x"
+      ]
+    ]
+  }
+}
