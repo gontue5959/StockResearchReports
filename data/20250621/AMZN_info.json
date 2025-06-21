@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "title": "股票研究報告 - 亞馬遜(AMZN.US)",
+    "reportNumber": "TSM-2025-0618",
+    "pageInfo": "頁數：1 of 1",
+    "publishDate": "發布日期：2025年06月21日"
+  },
+  "header": {
+    "firmName": "CMoney",
+    "reportTitle": "股票研究報告",
+    "companyName": "亞馬遜",
+    "companyNameEn": "Amazon.com, Inc."
+  },
+  "stockDetails": {
+    "industry": "零售業",
+    "marketCap": "22261",
+    "currentPrice": "209.69",
+    "priceRange52w": "161 - 242",
+    "grossProfitMargin": "50.6%",
+    "beta": "1.39",
+    "fields": [
+      {
+        "label": "產業別",
+        "key": "industry"
+      },
+      {
+        "label": "市值",
+        "key": "marketCap"
+      },
+      {
+        "label": "當前股價",
+        "key": "currentPrice"
+      },
+      {
+        "label": "52週區間",
+        "key": "priceRange52w"
+      },
+      {
+        "label": "毛利率",
+        "key": "grossProfitMargin"
+      },
+      {
+        "label": "Beta值",
+        "key": "beta"
+      }
+    ]
+  },
+  "recommendation": {
+    "rating": "樂觀",
+    "ratingClass": "optimistic",
+    "targetPrice": "US$ 290.4",
+    "potentialReturn": "潛在報酬 +38.5%"
+  },
+  "ratingInfo": {
+    "title": "價值評估",
+    "rating": {
+      "value": "偏低",
+      "label": "綜合評估"
+    },
+    "targetPrice": {
+      "value": "US$ 290.4",
+      "label": "合理價格"
+    },
+    "riskAssessment": {
+      "title": "風險評估",
+      "risks": [
+        [
+          "營收評估",
+          "偏高",
+          "risk-high"
+        ],
+        [
+          "營業利益評估",
+          "偏低",
+          "risk-low"
+        ],
+        [
+          "現金流評估",
+          "無法評估",
+          ""
+        ]
+      ]
+    }
+  },
+  "keyMetrics": {
+    "title": "關鍵指標",
+    "data": [
+      [
+        "本益比 (P/E)",
+        "33.8x"
+      ],
+      [
+        "股價淨值比 (P/B)",
+        "7.3x"
+      ],
+      [
+        "企業價值倍數 (EV/EBITDA)",
+        "14.6x"
+      ],
+      [
+        "股息殖利率",
+        "-"
+      ],
+      [
+        "淨負債比率",
+        "52.5%"
+      ],
+      [
+        "流動比率",
+        "104.8x"
+      ]
+    ]
+  }
+}
