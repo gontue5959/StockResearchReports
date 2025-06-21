@@ -16,8 +16,8 @@ if (date) {
 } else {
     dataFolder = `${repoRoot}data/`;
 }
-const reportDataPath = dataFolder ? `${dataFolder}${stockid}.json` : `${repoRoot}report-data.json`;
-const priceDataPath = dataFolder ? `${dataFolder}${stockid}_price.json` : `${repoRoot}${stockid}_price.json`;
+const reportDataPath = `${dataFolder}${stockid}.json`;
+const priceDataPath = `${dataFolder}${stockid}_price.json`;
 
 // 載入並渲染資料
 async function loadReportData() {
