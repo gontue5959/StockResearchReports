@@ -96,9 +96,11 @@ body {
     font-weight: 500;
 }
 
-.detail-value {
+.detail-value,
+.metric-value {
     font-weight: bold;
     color: #1f2937;
+    font-size: 1.3em;
 }
 
 .recommendation-box {
@@ -326,6 +328,7 @@ body {
 .metric-value {
     font-weight: bold;
     color: #1f2937;
+    font-size: 1.2em;
 }
 
 /* 圖表區域 */

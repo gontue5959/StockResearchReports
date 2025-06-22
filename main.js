@@ -48,9 +48,9 @@ async function loadReportData() {
             data.stockDetails[field.key] || ''
         ]);
         stockDetailsContainer.innerHTML = stockDetailItems.map(([label, value]) => `
-            <div class="detail-item">
-                <span class="detail-label">${label}</span>
-                <span class="detail-value">${value}</span>
+            <div class="metric-item">
+                <span class="metric-label">${label}</span>
+                <span class="metric-value">${value}</span>
             </div>
         `).join('');
         // 填入推薦資訊
