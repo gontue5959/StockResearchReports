@@ -36,17 +36,44 @@
             max-width: 480px;
             margin-top: 8px;
         }
-        #search-results a {
-            display: block;
-            padding: 12px 0;
+        table.search-table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        .search-table th, .search-table td {
+            padding: 10px 6px;
+            text-align: left;
+        }
+        .search-table th {
+            color: #64748b;
+            font-weight: 600;
+            font-size: 1.02rem;
+            background: #f1f5f9;
+        }
+        .search-table td {
+            font-size: 1.08rem;
             border-bottom: 1px solid #f1f5f9;
+        }
+        .search-table .result-date {
+            color: #64748b;
+            font-size: 0.98em;
+        }
+        .search-table a {
             color: #2563eb;
             text-decoration: none;
-            font-size: 1.08rem;
-            transition: background 0.2s;
         }
-        #search-results a:hover { background: #f1f5f9; }
-        .result-date { color: #64748b; font-size: 0.98em; margin-left: 8px; }
+        .search-table a:hover { text-decoration: underline; }
+        .search-table tr {
+            cursor: pointer;
+            transition: background 0.18s;
+        }
+        .search-table tr:hover {
+            background: #f1f5f9;
+        }
+        .stock-code-blue {
+            color: #2563eb;
+            font-weight: 500;
+        }
         @media (max-width: 600px) {
             .search-title { font-size: 1.2rem; }
             #search-input, #search-results { max-width: 98vw; }
@@ -57,7 +84,20 @@
     <div class="search-container">
         <div class="search-title">研究報告搜尋</div>
         <input type="text" id="search-input" placeholder="輸入股票代碼搜尋...">
-        <div id="search-results"></div>
+        <div id="search-results">
+            <table class="search-table">
+                <thead>
+                    <tr>
+                        <th>報告標題</th>
+                        <th>日期</th>
+                        <th>來源</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- 搜尋結果將插入於此 -->
+                </tbody>
+            </table>
+        </div>
     </div>
     <script src="search.js"></script>
 </body>
