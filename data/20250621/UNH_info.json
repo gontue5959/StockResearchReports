@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "股票研究報告 - 蘋果(AAPL.US)",
+    "title": "股票研究報告 - 聯合健康集團(UNH.US)",
     "reportNumber": "TSM-2025-0618",
     "pageInfo": "頁數：1 of 1",
     "publishDate": "發布日期：2025年06月22日"
@@ -8,16 +8,16 @@
   "header": {
     "firmName": "CMoney",
     "reportTitle": "股票研究報告",
-    "companyName": "蘋果",
-    "companyNameEn": "Apple Inc."
+    "companyName": "聯合健康集團",
+    "companyNameEn": "UnitedHealth Group Incorporated"
   },
   "stockDetails": {
-    "industry": "電腦硬件與設備",
-    "marketCap": "30021",
-    "currentPrice": "201.00",
-    "priceRange52w": "172 - 259",
-    "grossProfitMargin": "47.1%",
-    "beta": "1.25",
+    "industry": "醫療保健設備與服務",
+    "marketCap": "2740",
+    "currentPrice": "302.01",
+    "priceRange52w": "274 - 625",
+    "grossProfitMargin": "33.0%",
+    "beta": "0.20",
     "fields": [
       {
         "label": "產業別",
@@ -46,19 +46,19 @@
     ]
   },
   "recommendation": {
-    "rating": "持平",
-    "ratingClass": "neutral",
-    "targetPrice": "US$ 189.7",
-    "potentialReturn": "潛在報酬 -5.6%"
+    "rating": "樂觀",
+    "ratingClass": "optimistic",
+    "targetPrice": "US$ 695.08",
+    "potentialReturn": "潛在報酬 +130.2%"
   },
   "ratingInfo": {
     "title": "價值評估",
     "rating": {
-      "value": "偏高",
+      "value": "偏低",
       "label": "綜合評估"
     },
     "targetPrice": {
-      "value": "US$ 189.7",
+      "value": "US$ 695.08",
       "label": "合理價格"
     },
     "riskAssessment": {
@@ -66,8 +66,8 @@
       "risks": [
         [
           "營收評估",
-          "偏高",
-          "risk-high"
+          "偏低",
+          "risk-low"
         ],
         [
           "營業利益評估",
@@ -76,8 +76,8 @@
         ],
         [
           "現金流評估",
-          "偏高",
-          "risk-high"
+          "偏低",
+          "risk-low"
         ]
       ]
     }
@@ -87,27 +87,27 @@
     "data": [
       [
         "本益比 (P/E)",
-        "30.9x"
+        "12.4x"
       ],
       [
         "股價淨值比 (P/B)",
-        "44.9x"
+        "2.9x"
       ],
       [
         "企業價值倍數 (EV/EBITDA)",
-        "24.0x"
+        "15.3x"
       ],
       [
         "股息殖利率",
-        "0.51%"
+        "2.71%"
       ],
       [
         "淨負債比率",
-        "79.8%"
+        "67.9%"
       ],
       [
         "流動比率",
-        "82.1x"
+        "108.1x"
       ]
     ]
   }

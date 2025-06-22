@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "股票研究報告 - 蘋果(AAPL.US)",
+    "title": "股票研究報告 - Rigetti Computing(RGTI.US)",
     "reportNumber": "TSM-2025-0618",
     "pageInfo": "頁數：1 of 1",
     "publishDate": "發布日期：2025年06月22日"
@@ -8,16 +8,16 @@
   "header": {
     "firmName": "CMoney",
     "reportTitle": "股票研究報告",
-    "companyName": "蘋果",
-    "companyNameEn": "Apple Inc."
+    "companyName": "Rigetti Computing",
+    "companyNameEn": "Rigetti Computing, Inc."
   },
   "stockDetails": {
-    "industry": "電腦硬件與設備",
-    "marketCap": "30021",
-    "currentPrice": "201.00",
-    "priceRange52w": "172 - 259",
-    "grossProfitMargin": "47.1%",
-    "beta": "1.25",
+    "industry": "半導體產品與設備",
+    "marketCap": "36",
+    "currentPrice": "11.06",
+    "priceRange52w": "1 - 20",
+    "grossProfitMargin": "30.0%",
+    "beta": "2.77",
     "fields": [
       {
         "label": "產業別",
@@ -46,10 +46,10 @@
     ]
   },
   "recommendation": {
-    "rating": "持平",
-    "ratingClass": "neutral",
-    "targetPrice": "US$ 189.7",
-    "potentialReturn": "潛在報酬 -5.6%"
+    "rating": "謹慎",
+    "ratingClass": "cautious",
+    "targetPrice": "US$ 6.77",
+    "potentialReturn": "潛在報酬 -38.8%"
   },
   "ratingInfo": {
     "title": "價值評估",
@@ -58,7 +58,7 @@
       "label": "綜合評估"
     },
     "targetPrice": {
-      "value": "US$ 189.7",
+      "value": "US$ 6.77",
       "label": "合理價格"
     },
     "riskAssessment": {
@@ -71,13 +71,13 @@
         ],
         [
           "營業利益評估",
-          "偏低",
-          "risk-low"
+          "無法評估",
+          ""
         ],
         [
           "現金流評估",
-          "偏高",
-          "risk-high"
+          "無法評估",
+          ""
         ]
       ]
     }
@@ -87,27 +87,27 @@
     "data": [
       [
         "本益比 (P/E)",
-        "30.9x"
+        "-"
       ],
       [
         "股價淨值比 (P/B)",
-        "44.9x"
+        "15.5x"
       ],
       [
         "企業價值倍數 (EV/EBITDA)",
-        "24.0x"
+        "-15.9x"
       ],
       [
         "股息殖利率",
-        "0.51%"
+        "-"
       ],
       [
         "淨負債比率",
-        "79.8%"
+        "23.0%"
       ],
       [
         "流動比率",
-        "82.1x"
+        "1881.7x"
       ]
     ]
   }
